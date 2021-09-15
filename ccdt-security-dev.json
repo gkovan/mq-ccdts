@@ -1,0 +1,20 @@
+{
+  "channel": [
+    {
+      "name": "IBM.APP.SVRCONN",
+      "clientConnection": {
+        "connection": [
+          {
+            "host": "qm-dev-ibm-mq.dev.svc.cluster.local",
+            "port": 0
+          }
+        ],
+        "queueManager": "QM1"
+      },
+      "transmissionSecurity": {
+        "cipherSpecification": "ECDHE_RSA_AES_256_CBC_SHA384"
+      },
+      "type": "clientConnection"
+    }
+  ]
+}

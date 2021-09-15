@@ -1,0 +1,17 @@
+{
+  "channel": [
+    {
+      "name": "IBM.APP.SVRCONN",
+      "clientConnection": {
+        "connection": [
+          {
+            "host": "qm-dev-ibm-mq.dev.svc.cluster.local",
+            "port": 1414
+          }
+        ],
+        "queueManager": "QM1"
+      },
+      "type": "clientConnection"
+    }
+  ]
+}
