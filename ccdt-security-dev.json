@@ -6,7 +6,7 @@
         "connection": [
           {
             "host": "qm-dev-ibm-mq.dev.svc.cluster.local",
-            "port": 0
+            "port": 1414
           }
         ],
         "queueManager": "QM1"
